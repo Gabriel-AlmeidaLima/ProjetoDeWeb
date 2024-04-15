@@ -1,52 +1,52 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: MOVIEREVIEW
 
-Breve descrição do que o seu projeto faz.
+MovieReview é uma plataforma que permite aos amantes do cinema registrar, avaliar e compartilhar suas experiências cinematográficas. 
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+César Gabriel de Almeida Lima, 537274, Ciência da Computação.
+Lucas Cavalcante Maciel, 535635, Ciência da Computação.
+João Victor Moraes Castelo Branco, 536990, Ciência da Computação.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+Usuário não registrado.
+Usuário logado.
+Administrador.
 
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Usuário.
+Filmes
+Avaliação.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
-
-
-----
-
-:warning::warning::warning: As informações a seguir devem ser enviadas juntamente com a versão final do projeto. :warning::warning::warning:
-
-
-----
+Usuários não registrados poderão ver o catálogo de filmes, ver os comentarios de usuários registrados e suas avaliações.
+Usuários registrados poderão avaliar, comentar e favoritar filmes.
+Administradores poderão remover, adicionare editar filmes do catálogos, além de poderem remover comentários e avaliações de outros usuários.
 
 ## :desktop_computer: Tecnologias e frameworks utilizados
 
 **Frontend:**
 
-Lista as tecnologias, frameworks e bibliotecas utilizados.
+VueJS v3.0, Vue-Router e Pinia.
+Axios
 
 **Backend:**
 
-Lista as tecnologias, frameworks e bibliotecas utilizados.
+Strapi
 
 
 ## :shipit: Operações implementadas para cada entidade da aplicação
 
 
-| Entidade| Criação | Leitura | Atualização | Remoção |
-| --- | --- | --- | --- | --- |
-| Entidade 1 | X |  X  |  | X |
-| Entidade 2 | X |    |  X | X |
-| Entidade 3 | X |    |  |  |
+| Entidade               | Criação | Leitura | Atualização | Remoção |
+| ---------------------- | ------- | ------- | ----------- | ------- |
+| Usuário não registrado |         |  X      |             |         |
+| Filmes                 |  X      |  X      |      X      |    X    |
+| Avaliação              | X       |         |      X      |    X    | 
 
 > Lembre-se que é necessário implementar o CRUD de pelo menos duas entidades.
 
