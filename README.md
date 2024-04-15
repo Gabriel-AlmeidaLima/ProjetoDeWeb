@@ -1,4 +1,4 @@
-# :checkered_flag: MOVIEREVIEW
+# :checkered_flag: MovieReview
 
 MovieReview é uma plataforma que permite aos amantes do cinema registrar, avaliar e compartilhar suas experiências cinematográficas. 
 
