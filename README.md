@@ -6,7 +6,7 @@ MovieReview é uma plataforma que permite aos amantes do cinema registrar, avali
 
 César Gabriel de Almeida Lima, 537274, Ciência da Computação.  
 
-Lucas Cavalcante Maciel, 535635, Ciência da Computação.  
+Lucas Cavalcante Maciel, 535636, Ciência da Computação.  
 
 João Victor Moraes Castelo Branco, 536990, Ciência da Computação.
 
