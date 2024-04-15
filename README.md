@@ -44,7 +44,7 @@ Strapi
 
 | Entidade               | Criação | Leitura | Atualização | Remoção |
 | ---------------------- | ------- | ------- | ----------- | ------- |
-| Usuário não registrado |         |  X      |             |         |
+| Usuário                |         |         |             |         |
 | Filmes                 |  X      |  X      |      X      |    X    |
 | Avaliação              | X       |         |      X      |    X    | 
 
