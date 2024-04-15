@@ -13,20 +13,26 @@ João Victor Moraes Castelo Branco, 536990, Ciência da Computação.
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
 Usuário não registrado.
+
 Usuário logado.
+
 Administrador.
 
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
 Usuário.
+
 Filmes
+
 Avaliação.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
 Usuários não registrados poderão ver o catálogo de filmes, ver os comentarios de usuários registrados e suas avaliações.
+
 Usuários registrados poderão avaliar, comentar e favoritar filmes.
+
 Administradores poderão remover, adicionare editar filmes do catálogos, além de poderem remover comentários e avaliações de outros usuários.
 
 ## :desktop_computer: Tecnologias e frameworks utilizados
